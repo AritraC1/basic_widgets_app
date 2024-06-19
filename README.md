@@ -1,4 +1,4 @@
-# basic_widgets_app
+# Basic widgets app for Flutter  
 
 A new Flutter project.
 
